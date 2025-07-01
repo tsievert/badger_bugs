@@ -1,0 +1,9 @@
+# .github/ISSUE_TEMPLATE/config.yml
+blank_issues_enabled: false        # Keep reports structured
+contact_links:
+  - name: 💬 Join our Discord
+    url: https://discord.gg/xMfQcRr9UJ
+    about: Got gameplay questions or just want to say hi? Drop by our friendly community chat!
+  - name: 🌐 Badge(r)s website
+    url: https://www.badge-r-s.de/
+    about: News, FAQs and official announcements live here.
